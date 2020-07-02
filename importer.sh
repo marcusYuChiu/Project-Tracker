@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "$home/gateway.sh"
-source "$home/utilizer.sh"
-source "$home/tables.sh"
-source "$home/service.sh"
+source "$PJT_PATH/gateway.sh"
+source "$PJT_PATH/utilizer.sh"
+source "$PJT_PATH/tables.sh"
+source "$PJT_PATH/service.sh"
