@@ -1,6 +1,6 @@
 # Project-Tracker
 ## Adding path:
 - Mac
-#### adding /your/path to .bash_profile
+#### adding the path of pjt project to .bash_profile
 - Linux
-#### adding /your/path to .profile
+#### adding the path of pjt project to  .profile
